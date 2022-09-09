@@ -13,6 +13,6 @@ module.exports = new Sequelize(
                 rejectUnauthorized: false
             }
         },
-        port: '5432,
+        port: '5432',
     },
 )
